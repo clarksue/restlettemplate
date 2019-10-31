@@ -11,7 +11,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <restlet-version>2.3.7</restlet-version>
+        <restlet-version>2.3.12</restlet-version>
         <cobertura.maxmem>512M</cobertura.maxmem>
     </properties>
 
